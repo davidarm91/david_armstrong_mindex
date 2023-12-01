@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mindex.challenge.service.impl.CompensationServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-01T22:43:50" hostname="ALIREZA-LAPTOP" time="1.826">
+  <properties/>
+  <testcase name="createCompensation_ValidData_ReturnsCompensationWithCorrectSalary()" classname="com.mindex.challenge.service.impl.CompensationServiceTest" time="1.809"/>
+  <testcase name="createCompensation_ValidData_ReturnsCompensationWithCorrectDate()" classname="com.mindex.challenge.service.impl.CompensationServiceTest" time="0.005"/>
+  <testcase name="createCompensation_ValidData_ReturnsCompensation()" classname="com.mindex.challenge.service.impl.CompensationServiceTest" time="0.007"/>
+  <system-out><![CDATA[02:13:51.902 [Test worker] DEBUG com.mindex.challenge.service.impl.CompensationServiceImpl - Creating compensation [com.mindex.challenge.data.Compensation@3c682417]
+02:13:51.961 [Test worker] DEBUG com.mindex.challenge.service.impl.CompensationServiceImpl - Creating compensation [com.mindex.challenge.data.Compensation@1defb81d]
+02:13:51.969 [Test worker] DEBUG com.mindex.challenge.service.impl.CompensationServiceImpl - Creating compensation [com.mindex.challenge.data.Compensation@7afe62d8]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
